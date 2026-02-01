@@ -22,7 +22,7 @@ A projekt során az alábbi három helyszín hálózati megvalósítását és �
 ---
 ### 👥 Készítette:
 * **Wéber Ágoston**
-* **Istváni János**
+* **Istvánfi János**
 * **Menyhárt Alex**
 
 📅 Dátum: 2026. 02. 01.
